@@ -9,7 +9,7 @@ For the running kitten I've used [oneko.js](https://github.com/adryd325/oneko.js
 
 ### Demo
  - Live site: I'll add it once it on hosting
- - Screenshot: ![preview](/src/images/preview.jpg)
+ - Screenshot: ![preview](/images/preview.jpg)
 
 
  ### Features
