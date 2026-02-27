@@ -17,4 +17,4 @@ For the running kitten I've used [oneko.js](https://github.com/adryd325/oneko.js
 - Tailwind for styling
 - Little oneko kitty that follows your cursor 🐾
 
-If you liked it you can check out other stuff that I did(and of course give repo a star😈)!
+If you liked it you can check out other stuff that I did(and of course give repo a star😈)! Btw you can freely use code from here if you liked smth
