@@ -8,7 +8,7 @@ For the running kitten I've used [oneko.js](https://github.com/adryd325/oneko.js
 ---
 
 ### Demo
- - Live site: I'll add it once it on hosting
+ - Live site: [here it is!](https://lusparkl.github.io/my-corner/)
  - Screenshot: ![preview](/images/preview.jpg)
 
 
